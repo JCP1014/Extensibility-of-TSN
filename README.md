@@ -17,17 +17,17 @@ In each input file:
    and the 2nd possible path uses link 1 and link 2.
    
 Example:
-2
-5
-0.1
-0.2
-2
-2
-1 1 0 0 0
-0 0 1 1 1
-0 0 1 0 0
-1 1 0 1 1
-
+2   
+5  
+0.1  
+0.2   
+2  
+2  
+1 1 0 0 0  
+0 0 1 1 1  
+0 0 1 0 0  
+1 1 0 1 1  
+  
 It means there are 2 flows and 5 links.
 The utilization of flow 0 is 0.1.
 The utilization of flow 1 is 0.2.
