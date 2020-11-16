@@ -16,7 +16,7 @@ In each input file:
    and the 1st possible path uses link 0, link 3, and link 4,  
    and the 2nd possible path uses link 1 and link 2.  
      
-Example:  
+Example of input:  
 2   
 5  
 0.1  
