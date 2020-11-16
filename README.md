@@ -3,7 +3,7 @@ Every two input files correspond to one output file.
 For example, input_0.dat and input_1.dat correspond to output_0.dat; input_2.dat and input_3.dat correspond to output_2.dat, and so on.  
 The first input file contains the first N flows, and the second input file contains N additional flows.
 
-In each input file:
+## In each input file:
 1. The first line is the number of flows (N).
 2. The second line is the number of links (M).
 3. The following N lines are utilizations of flows (U).
@@ -39,7 +39,7 @@ The path 0 of flow 1 uses link 2.
 The path 1 of flow 1 uses link 0, 1, 3, 4.  
   
   
-In each output file:  
+## In each output file:  
 There are 4N lines, and each line contains a number 0 or 1 or -1.  
 0 means clockwise; 1 means counterclockwise; -1 means no path can be used.  
 (I assume if a path simultaneously uses link 0 and link (M-1), then its direction is counterclockwise.) 
