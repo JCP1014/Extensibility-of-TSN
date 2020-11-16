@@ -1,6 +1,6 @@
 There are 200 input files in the directory named "input", and 100 output files in the directory named "output".  
 Every two input files correspond to one output file.  
-For example, input_0.dat and input_1.dat correspond to output_0.dat, input_2.dat and input_3.dat correspond to output_2.dat, and so on.
+For example, input_0.dat and input_1.dat correspond to output_0.dat; input_2.dat and input_3.dat correspond to output_2.dat, and so on.
 The first input file contains the first N flows, and the second input file contains N additional flows.
 
 In each input file:
