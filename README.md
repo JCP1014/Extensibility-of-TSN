@@ -33,10 +33,10 @@ The utilization of flow 0 is 0.1.
 The utilization of flow 1 is 0.2.  
 Flow 0 has 2 possible paths.  
 Flow 1 has 2 possible paths.  
-The path 0 of flow 0 uses link 0 and link 2.  
-The path 1 of flow 0 uses link 2, link 3, and link 4.  
+The path 0 of flow 0 uses link 0, 1.  
+The path 1 of flow 0 uses link 2, 3, 4.  
 The path 0 of flow 1 uses link 2.  
-The path 1 of flow 1 uses link 0, link 1, link 3, and link 4.  
+The path 1 of flow 1 uses link 0, 1, 3, 4.  
   
   
 In each output file:  
