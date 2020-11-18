@@ -41,6 +41,6 @@ The path 1 of flow 1 uses link 0, 1, 3, 4.
   
 ## In each output file:  
 There are 4N lines, and each line contains a number 0 or 1 or -1.  
-0 means clockwise; 1 means counterclockwise; -1 means no path can be used(remaining capacity of some links on both paths are not enough for this flow). (I assume the link with the smallest index as the source link.)   
+0 means clockwise; 1 means counterclockwise; -1 means no path can be used(remaining capacity of some links on both paths are not enough for this flow). (I assume the link with the smallest index is the source link.)   
 The first 2N lines are the directions of paths chosen for flows by MILP.  
 The following 2N lines are the directions of paths chosen for flows by All Shortest Path.  
